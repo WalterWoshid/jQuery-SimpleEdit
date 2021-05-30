@@ -16,8 +16,8 @@ SimpleEdit is a jQuery plugin for in-place editing.
 ### 1. Include it in your page.
 
 ```html
-<link href="jquery-simpleedit.css" rel="stylesheet">
-<script src="jquery-simpleedit.js"></script>
+<link href="https://min.gitcdn.link/repo/WalterWoshid/jQuery-SimpleEdit/master/dist/jquery-simpleedit/css/jquery-simpleedit.min.css" rel="stylesheet">
+<script src="https://min.gitcdn.link/repo/WalterWoshid/jQuery-SimpleEdit/master/dist/jquery-simpleedit/js/jquery-simpleedit.min.js"></script>
 ```
 
 <span style="color:#FF8C00">Note to include jquery-simpleedit <u>after core library</u> (jquery)!</span>
@@ -69,7 +69,7 @@ $('#adress').simpleedit('/post', callback1, 'cancel', callback2)
 Open your page and click on the element. Enter new value and submit form (Enter key or submit button). It will send ajax 
 request with new value to `/post` (if url specified). Request contains `name`, `value` and `pk` of record to be updated:
 
-```http request
+```
 POST /post
 {
   name: 'address',    // Name of field (column in db)
