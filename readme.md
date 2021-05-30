@@ -16,8 +16,8 @@ SimpleEdit is a jQuery plugin for in-place editing.
 ### 1. Include it in your page.
 
 ```html
-<link href="jquery-simpleedit.css" rel="stylesheet">
-<script src="jquery-simpleedit.js"></script>
+<link href="https://min.gitcdn.link/repo/WalterWoshid/jQuery-SimpleEdit/master/dist/jquery-simpleedit/css/jquery-simpleedit.min.css" rel="stylesheet">
+<script src="https://min.gitcdn.link/repo/WalterWoshid/jQuery-SimpleEdit/master/dist/jquery-simpleedit/js/jquery-simpleedit.min.js"></script>
 ```
 
 <span style="color:#FF8C00">Note to include jquery-simpleedit <u>after core library</u> (jquery)!</span>
