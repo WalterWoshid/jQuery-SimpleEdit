@@ -1,0 +1,11 @@
+{
+  "name": "jquery-simpleedit",
+  "version": "1.0.0",
+  "author": {
+    "name": "Valentin Wotschel",
+    "email": "wotschel.valentin@googlemail.com"
+  },
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
