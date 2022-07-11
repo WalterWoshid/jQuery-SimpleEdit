@@ -1,5 +1,7 @@
 # jQuery SimpleEdit
 
+# !!! Outdated, use modern tools like Svelte, Vue, React or Angular !!!
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=QLYGLC8FANLDJ)
 
 SimpleEdit is a jQuery plugin for in-place editing.
